@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '15px 30px', backgroundColor: '#4f46e5', color: 'white' }}>
       <div style={{ fontSize: '20px', fontWeight: 'bold' }}>
-        PasteApp
+        PasteApp 
       </div>
       
       <div style={{ display: 'flex', gap: '30px', fontSize: '18px' }}>
